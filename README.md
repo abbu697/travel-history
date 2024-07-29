@@ -8,12 +8,12 @@ i have been visitng different places fr career. I have visited the jammu, amrits
 ## companies distance vs time for travel
 
 
-# solan       6HRS
-# Jalander    4HRS
-#jammu        5HRS
-#mohali       7HRS
-#Delhi-ncr    12HRS
-#gurogram      12HRS
+solan       6HRS
+ Jalander    4HRS
+jammu        5HRS
+mohali       7HRS
+Delhi-ncr    12HRS
+gurogram      12HRS
 
 
 ![image](https://github.com/user-attachments/assets/2896e90d-b83e-46fa-a7d0-31bed70435e8)
