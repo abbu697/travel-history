@@ -19,3 +19,8 @@ gurogram      12HRS
 ![image](https://github.com/user-attachments/assets/2896e90d-b83e-46fa-a7d0-31bed70435e8)
 
 
+In 2022 i was workig for a fatory. i have many time traveled by buses. i have been using the local buses. Aslo used the online booking faciity and crds.
+
+![image](https://github.com/user-attachments/assets/1e7c4ae5-91fd-4ab5-b327-aa7e7e285225)
+
+
